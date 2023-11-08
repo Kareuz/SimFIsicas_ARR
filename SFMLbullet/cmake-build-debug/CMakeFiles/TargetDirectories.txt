@@ -1,0 +1,3 @@
+C:/Users/Alumnos/Desktop/SimFisica/SFMLbullet/cmake-build-debug/CMakeFiles/SFMLbullet.dir
+C:/Users/Alumnos/Desktop/SimFisica/SFMLbullet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alumnos/Desktop/SimFisica/SFMLbullet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
